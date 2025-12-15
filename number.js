@@ -1,3 +1,4 @@
+
 let num1 =6;
 console.log(num1);
 
