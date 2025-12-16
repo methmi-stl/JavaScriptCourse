@@ -9,7 +9,8 @@
       "HIRE_DATE": "1987-06-17",
       "SALARY": 24000,
       "DEPARTMENT_ID": 90,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/10.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/10.png",
+      "isActive": false
     },
     {
         "id": 101,
@@ -20,7 +21,8 @@
         "HIRE_DATE": "1989-09-21",
         "SALARY": 17000,
         "DEPARTMENT_ID": 90,
-        "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/2.png"
+        "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/2.png",
+        "isActive":true
     },
     {
         "id": 102,
@@ -31,7 +33,8 @@
         "HIRE_DATE": "1993-01-13",
         "SALARY": 17000,
         "DEPARTMENT_ID": 90,
-        "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/3.png"
+        "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/3.png",
+        "isActive":true
     },
     {
       "id": 103,
@@ -42,7 +45,8 @@
       "HIRE_DATE": "1990-01-03",
       "SALARY": 9000,
       "DEPARTMENT_ID": 60,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/15.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/15.png",
+      "isActive":true
     },
     {
       "id": 105,
@@ -53,7 +57,8 @@
       "HIRE_DATE": "1997-06-25",
       "SALARY": 4800,
       "DEPARTMENT_ID": 60,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/6.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/6.png",
+      "isActive":false
     },
     {
       "id": 106,
@@ -64,7 +69,8 @@
       "HIRE_DATE": "1998-02-05",
       "SALARY": 4800,
       "DEPARTMENT_ID": 60,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/7.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/7.png",
+      "isActive":true
     },
     {
       "id": 107,
@@ -75,7 +81,8 @@
       "HIRE_DATE": "1999-02-07",
       "SALARY": 4200,
       "DEPARTMENT_ID": 60,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/7.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/7.png",
+      "isActive":false
     },
     {
       "id": 108,
@@ -86,7 +93,8 @@
       "HIRE_DATE": "1994-08-17",
       "SALARY": 12000,
       "DEPARTMENT_ID": 100,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/8.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/8.png",
+      "isActive":true
     },
     {
       "id": 109,
@@ -97,7 +105,8 @@
       "HIRE_DATE": "1994-08-17",
       "SALARY": 9000,
       "DEPARTMENT_ID": 100,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/17.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/17.png",
+      "isActive":false
     },
     {
       "id": 110,
@@ -108,7 +117,8 @@
       "HIRE_DATE": "1997-09-28",
       "SALARY": 8200,
       "DEPARTMENT_ID": 100,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/10.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/10.png",
+      "isAcive":true
     },
     {
       "id": 111,
@@ -119,7 +129,8 @@
       "HIRE_DATE": "1997-09-30",
       "SALARY": 7700,
       "DEPARTMENT_ID": 100,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/11.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/11.png",
+      "isActive":true
     },
     {
       "id": 112,
@@ -130,7 +141,8 @@
       "HIRE_DATE": "1998-03-07",
       "SALARY": 7800,
       "DEPARTMENT_ID": 100,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/12.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/12.png",
+      "isActive":false
     },
     {
       "id": 113,
@@ -141,7 +153,8 @@
       "HIRE_DATE": "1999-12-07",
       "SALARY": 6900,
       "DEPARTMENT_ID": 100,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/13.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/13.png",
+      "isActive":true
     },
     {
       "id": 114,
@@ -152,7 +165,8 @@
       "HIRE_DATE": "1994-12-07",
       "SALARY": 11000,
       "DEPARTMENT_ID": 30,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/14.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/14.png",
+      "isActive":false
     },
     {
       "id": 115,
@@ -163,7 +177,8 @@
       "HIRE_DATE": "1995-05-18",
       "SALARY": 3100,
       "DEPARTMENT_ID": 30,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/15.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/15.png",
+      "isActive":true
     },
     {
       "id": 116,
@@ -174,7 +189,8 @@
       "HIRE_DATE": "1997-12-24",
       "SALARY": 2900,
       "DEPARTMENT_ID": 30,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/6.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/6.png",
+      "isActive":true
     },
     {
       "id": 117,
@@ -185,7 +201,8 @@
       "HIRE_DATE": "1997-07-24",
       "SALARY": 2800,
       "DEPARTMENT_ID": 30,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/17.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/17.png",
+      "isActive":false
     },
     {
       "id": 118,
@@ -196,7 +213,8 @@
       "HIRE_DATE": "1998-11-15",
       "SALARY": 2600,
       "DEPARTMENT_ID": 30,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/18.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/18.png",
+      "isActive":true
     },
     {
       "id": 119,
@@ -207,7 +225,8 @@
       "HIRE_DATE": "1999-08-10",
       "SALARY": 2500,
       "DEPARTMENT_ID": 30,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/9.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/9.png",
+      "isActive":true
     },
     {
       "id": 120,
@@ -218,7 +237,8 @@
       "HIRE_DATE": "1996-07-18",
       "SALARY": 8000,
       "DEPARTMENT_ID": 50,
-      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/14.png"
+      "Image": "https://www.oracle.com/webfolder/technetwork/jet/Images/dvt/14.png",
+      "isActive":false
     }
   ]
 }
