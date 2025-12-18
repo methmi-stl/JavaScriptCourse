@@ -1,38 +1,38 @@
-//Javascript Object
+// Javascript Object
 
-let employee = {
-    firstName: "Methmi",
-    lastName: "Dharmakeerthi",
-    birthdate: new Date("January 1, 1982"),
-    numYearsEmployment: 7,
-    department: "Engineering",
-    title:"ASE",
-    isActive: true,
-    salary: 162000
+const employee = {
+  firstName: 'Methmi',
+  lastName: 'Dharmakeerthi',
+  birthdate: new Date('January 1, 1982'),
+  numYearsEmployment: 7,
+  department: 'Engineering',
+  title: 'ASE',
+  isActive: true,
+  salary: 162000,
 };
 
-//convert to JSON string
+// convert to JSON string
 let jsonValue = JSON.stringify(employee);
 console.log(jsonValue);
-console.log(typeof(jsonValue));
+console.log(typeof (jsonValue));
 
-jsonValue = JSON.stringify(employee, null,2);
+jsonValue = JSON.stringify(employee, null, 2);
 console.log(jsonValue);
 
-//Convert Value Back to Object
-let newEmployee = JSON.parse(jsonValue);
+// Convert Value Back to Object
+const newEmployee = JSON.parse(jsonValue);
 console.log(newEmployee);
-console.log(typeof(newEmployee));
+console.log(typeof (newEmployee));
 
 //  direct json
-let jsonString = `{
+const jsonString = `{
     "firstName": "Ronithi",
     "lastName": "Arunoda"
     }`;
 
-let obj = JSON.parse(jsonString);
+const obj = JSON.parse(jsonString);
 console.log(obj);
-console.log(typeof(obj));
+console.log(typeof (obj));
 
-//improperly formatted json
-let notJSON = "hello";
+// improperly formatted json
+const notJSON = 'hello';
